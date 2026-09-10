@@ -29,13 +29,13 @@ The home of Nota, independent of any one assistant:
 The plugin is installed through each assistant's own channel, not from here:
 see [install](https://nota.yeste.studio/#install).
 
-## Licence
+## License
 
 The knowledge base released here is derived from MusaDSL's own documentation,
 source and demo projects, and is distributed under the same terms as MusaDSL:
 **LGPL-3.0-or-later**.
 
-The Nota plugin is a separate work with a separate licence. It is free of charge
+The Nota plugin is a separate work with a separate license. It is free of charge
 and proprietary: it is licensed to be used, not copied, changed or
 redistributed, and what you compose with it is yours without condition. Its
 terms travel with it, in the `LICENSE` file of the installed plugin.
