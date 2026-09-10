@@ -38,6 +38,7 @@ source and demo projects, and is distributed under the same terms as MusaDSL:
 The Nota plugin is a separate work with a separate license. It is free of charge
 and proprietary: it is licensed to be used, not copied, changed or
 redistributed, and what you compose with it is yours without condition. Its
-terms travel with it, in the `LICENSE` file of the installed plugin.
+terms travel with it, in the `LICENSE` file of the installed plugin, and
+`/nota:license` shows them from inside a session.
 
 Copyright © Javier Sánchez Yeste, [yeste.studio](https://yeste.studio).
